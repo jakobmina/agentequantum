@@ -8,6 +8,8 @@
     # pkgs.go
     pkgs.python314
     pkgs.uv
+    pkgs.portaudio
+    pkgs.gcc
     # pkgs.python311Packages.pip
     # pkgs.nodejs_20
     # pkgs.nodePackages.nodemon
