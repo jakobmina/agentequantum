@@ -10,6 +10,7 @@
     pkgs.uv
     pkgs.portaudio
     pkgs.gcc
+    pkgs.jack2
     # pkgs.python311Packages.pip
     # pkgs.nodejs_20
     # pkgs.nodePackages.nodemon

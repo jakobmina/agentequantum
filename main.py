@@ -18,4 +18,3 @@ def main():
 AudioQuantumStatePreparation()
 if __name__ == "__main__":
     main()
-    audio_state_preparation.start_audio_capture()
